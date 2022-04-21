@@ -1,6 +1,8 @@
-# Skills-of-Archaic-Times
-VR game capstone. CODE TO COME SOON
+#Archaic-Times
+Virtual Reality game capstone. CODE TO COME SOON
 
+#4/12/2022
+A Demo Trailer has been uploaded
 
 I have decided until my team and I
 have solidified security for our
