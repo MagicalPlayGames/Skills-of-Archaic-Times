@@ -1,8 +1,8 @@
 #Archaic-Times
 Virtual Reality game capstone. CODE TO COME SOON
 
-#4/12/2022
-A Demo Trailer has been uploaded
+#4/12/2022 Demo Trailer
+https://drive.google.com/drive/folders/1xXKww7LH8RbAkoh8WXcrqeK6PnJpLSuL
 
 I have decided until my team and I
 have solidified security for our
